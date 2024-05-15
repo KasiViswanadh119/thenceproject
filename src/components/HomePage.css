@@ -1,0 +1,281 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Header{
+    width: 1,392px;
+    height:111.17px;
+    top: 24px;
+    left: 24px;
+    margin: 20px 20px; /* Margin of 20px on the top and bottom */
+    padding: 0px 20.89px;
+    gap: 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    border: 1.31px solid #EAEAEA;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.Logo{
+    width: 127.94px;
+    height: 47.39px;
+    padding: 7.86px 0.17px 9.03px 6.78px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+.getproject{
+    width:189.56px;
+    height:60.22px;
+    padding: 0 20px;
+    border-radius: 50px;
+    opacity: 0px;
+    border: 1.31px solid #EAEAEA;
+    background-color: white;
+    font-family: "Manrope", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24.59px;
+    text-align: center;
+
+
+}
+
+.obtalent{
+    width:189.56px;
+    height:60.22px;
+    padding: 0 20px;
+    border-radius: 50px;
+    opacity: 0px;
+    border: 1.31px solid #1C1C1C;
+    background-color: #1C1C1C;
+    font-family: "Manrope", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24.59px;
+    text-align: center;
+    color: white;
+}
+
+.HeroSection{
+    width: 100%;
+    height: 1044px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.herocontent{
+    width: 1233px;
+    height: 886px;
+    top: 79px;
+    left: 62px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.herocontentcol{
+    display: flex;
+    flex-direction: column;
+}
+.sucess{
+    display: flex;
+    flex-direction: column;
+    width:588px;
+    height:178px;
+    top: 79px;
+    left: 600px;
+    gap: 0px;
+    opacity: 0px;
+    align-items: center;
+    margin: auto;
+}
+
+.imgpara{
+    display: flex;
+    flex-direction: row;
+}
+
+.img{
+    width: 727.49px;
+    height: 596px;
+    top: 369px;
+    left: 62px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.buttondata{
+    display: flex;
+    flex-direction: column;
+}
+
+.ss{
+    font-family: "Covered By Your Grace", cursive;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 39.6px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #2DA950;
+    margin-bottom: 0;
+
+
+}
+.esj:first-child {
+    margin-bottom: -50px;
+}
+.esj{
+    flex: 1;
+    gap: 0px;
+    margin-top: -10px;
+    width: 588px;
+    height: 134px;
+    opacity: 0px;
+    font-family: "Manrope", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 67.2px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    margin: 0;
+
+}
+.esj-container{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    width: 100%; /* Ensure the container takes full width */
+    height: 100%;
+}
+
+.herodata{
+    width: 398px;
+    height: 192px;
+    top: 500px;
+    left: 1000px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;/* Adjust as needed */
+    right: 10%; /* Adjust as needed */
+
+}
+
+.ef{
+    font-family: "Manrope", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+}
+
+.explore-button{
+    position: absolute;
+    width: 245px;
+    height: 88px;
+    top: 828px;
+    left: 1000px;
+    border-radius: 50px;
+    opacity: 0px;
+    border: 1.31px solid #EAEAEA;
+    background-color: black;
+    font-family: "Manrope", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24.59px;
+    text-align: center;
+    color: white;
+
+}
+
+.Questions{
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center;
+    width: 100%;
+    height: 813px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: antiquewhite;
+
+}
+.ques-content{
+    width: 1376px;
+    height: 749px;
+    top: 32px;
+    left: 32px;
+    border-radius: 40px;
+    opacity: 0px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-top: 100px;
+}
+.woym{
+    width: 215px;
+    height: 25px;
+    gap: 0px;
+    opacity: 0px;
+    font-family:  "Covered By Your Grace", cursive;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 35.2px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    padding-left: 100px;
+
+}
+.aq{
+    width: 405px;
+height: 66px;
+gap: 0px;
+opacity: 0px;
+font-family:  "Manrope", sans-serif;
+font-size: 60px;
+font-weight: 600;
+line-height: 66px;
+letter-spacing: -0.01em;
+text-align: left;
+padding-left: 100px;
+
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+}
+.toggle-answer {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    font-size: 1.2em;
+    margin-left: 10px;
+}
+
+.answer {
+    display: {answerVisible ? 'block' : 'none'};
+    /* Add additional styles as needed */
+}
+
+hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 1px solid #ccc;
+}
