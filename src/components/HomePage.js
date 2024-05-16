@@ -9,7 +9,6 @@ const HomePage =()=>{
         question4: false,
         question5: false
     });
-
     // Function to toggle answer visibility for a specific question
     const toggleAnswer = (questionId) => {
         setAnswerVisibility(prevVisibility => ({
@@ -17,7 +16,6 @@ const HomePage =()=>{
             [questionId]: !prevVisibility[questionId]
         }));
     };
-    
     return(
         <div className="MainPage">
             <div className="Header">
